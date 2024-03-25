@@ -8,8 +8,9 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
   </a>
   
-[![codecov](https://codecov.io/gh/tucommenceapousser/readme-md-generator/graph/badge.svg?token=DWCJTDU2BB)](https://codecov.io/gh/tucommenceapousser/readme-md-generator)
-  
+<a href="https://codecov.io/gh/tucommenceapousser/readme-md-generator" >
+<img src="https://codecov.io/gh/tucommenceapousser/readme-md-generator/graph/badge.svg?token=DWCJTDU2BB"/>
+</a>  
   <a href="https://github.com/frinyvonnick/gitmoji-changelog">
     <img src="https://img.shields.io/badge/changelog-gitmoji-brightgreen.svg" alt="gitmoji-changelog">
   </a>
